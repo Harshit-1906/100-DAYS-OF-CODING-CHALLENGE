@@ -20,7 +20,7 @@
 
 <h3 align="center">Harshit Prasad</h3>
 <div align="center">
-<img width="100" src="Harshit.jpg"/>
+<img width="100" src="Harshit(2).jpg"/>
 </div>
 
 <div align="center">
