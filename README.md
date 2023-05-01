@@ -20,7 +20,7 @@
 
 <h3 align="center">Harshit Prasad</h3>
 <div align="center">
-<img width="100" src="Harshit(2).jpg"/>
+<img width="100" src="https://github.com/Harshit-1906/100-DAYS-OF-CODING-CHALLENGE/blob/main/Harshit%20(2).jpg)"/>
 </div>
 
 <div align="center">
